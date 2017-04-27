@@ -1,26 +1,48 @@
 ---
-title: A beginners’ guide to brewing with Chemex
-date: 2017-01-04T15:04:10.000Z
+title: >-
+  How will the Model 3 effect the Tesla Service Centers, and what is Tesla doing
+  to prepare?
+date: 2017-04-27T07:04:10-07:00
 description: >-
-  Brewing with a Chemex probably seems like a complicated, time-consuming
-  ordeal, but once you get used to the process, it becomes a soothing ritual
-  that's worth the effort every time.
-image: /img/blog/chemex.jpg
+  The fleet of Tesla owners continues to grow. With growth comes the need for
+  access to service centers and Tesla vehicle support. This week, we explored
+  just that topic. We looked at how the Tesla Fleet is growing and the ratio of
+  service center support.
+image: /img/Model 3 (1).jpg
 ---
 
-This [week](/wdwdw) we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts\*.
+The fleet of Tesla owners continues to grow. With growth comes the need for access to service centers and Tesla vehicle support. This week, we explored just that topic. We looked at how the Tesla Fleet is growing and the ratio of service center support.
 
-In 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is *"one of the best-designed products of modern times"*, and so is included in the collection of the Museum of Modern Art in New York City.
+With the help of our friends at Tesla Motor Club, we visualized a side-by-side comparison of the data. You can explore and interact with this graph via the link below. The findings are particularly interesting as ownership growth and service center availability are trending together.
 
-## The little secrets of Chemex brewing
+Much of our interest in this subject centers around the launch of the Model 3. Where will service centers be popping up? And, how convenient will they be to us Tesla owners? According to recent Tesla news, Tesla is expanding their service center locations – and offering mobile service. For instance, as mentioned in a previous video, I had issues with my Tesla’s windshield wiper and had to have the battery replaced. Tesla mobile service came out to my house to resolve the issues – and for FREE!
 
-The Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conical funnel-like neck (rather than the cylindrical neck of an Erlenmeyer flask) and uses proprietary filters, made of bonded paper (thicker-gauge paper than the standard paper filters for a drip-method coffeemaker) that removes most of the coffee oils, brewing coffee with a taste that is different than coffee brewed in other coffee-making systems; also, the thicker paper of the Chemex coffee filters may assist in removing cafestol, a cholesterol-containing compound found in coffee oils. Here’s three important tips newbies forget about:
+This data is particularly interesting from a growth perspective. It’s insightful to understand how ownership correlates to the availability service centers. Check out the above video to learn more.
 
-1. Always buy dedicated Chemex filters.
-2. Use a scale, don’t try to eyeball it.
-3. Never skip preheating the glass.
-4. Timing is key, don’t forget the clock.
+Big thanks to our friends at Tesla Motor Club for the data. You can see and interact with the Tesla ownership and service center growth info here: [https://teslamotorsclub.com/tmc/threads/tesla-service-center-stats.76488/](https://teslamotorsclub.com/tmc/threads/tesla-service-center-stats.76488/)
 
-The most visually distinctive feature of the Chemex is the heatproof wooden collar around the neck, allowing it to be handled and poured when full of hot water. This is turned, then split in two to allow it to fit around the glass neck. The two pieces are held loosely in place by a tied leather thong. The pieces are not tied tightly and can still move slightly, retained by the shape of the conical glass.
+The following Tesla news sources provided great insight to the topic:
 
-For a design piece that became popular post-war at a time of Modernism and precision manufacture, this juxtaposition of natural wood and the organic nature of a hand-tied knot with the laboratory nature of glassware was a distinctive feature of its appearance.
+[https://electrek.co/2017/03/11/tesla-mobile-service-rangers/](https://electrek.co/2017/03/11/tesla-mobile-service-rangers/)
+
+[https://www.tesla.com/findus#/bounds/49.38,-66.94,25.82,-124.38999999999999,d?search=service](https://www.tesla.com/findus#/bounds/49.38,-66.94,25.82,-124.38999999999999,d?search=service)
+
+And with the growing number of service centers, there are plenty career opportunities at Tesla. Check those out:
+
+[https://www.tesla.com/careers/search#/?department=2](https://www.tesla.com/careers/search#/?department=2)
+
+You can check out my experience with Tesla mobile service in this video: [https://www.youtube.com/watch?v=H1BI9P1qcAY](https://www.youtube.com/watch?v=H1BI9P1qcAY)
+
+As always, we have tons of Tesla news, information and offers at [https://teslanomics.co](https://teslanomics.co/)
+
+You can also subscribe to our emails to get the latest Tesla news straight to your inbox: [https://teslanomics.co](https://teslanomics.co/)
+
+*Music provided by Epidemic Sound*
+
+Join our community on Patreon! We’re using Patreon as a way to build out the community of passionate, intelligent people that love the detailed analysis of the facts behind Tesla and their products: [https://teslanomics.co/patreon](https://teslanomics.co/patreon)
+
+We’re on social, too! Join the convo online:
+
+fb [https://fb.com/teslanomics](https://fb.com/teslanomics)
+
+tw [https://twitter.com/teslanomicsco](https://twitter.com/teslanomicsco)
