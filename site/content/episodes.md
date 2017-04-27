@@ -1,7 +1,7 @@
 ---
-title: Our Coffee
-type: products
-page: /products.html
+title: Episodes
+type: episodes
+page: /episodes.html
 image: /img/products/jumbotron.jpg
 heading: What we offer
 description: >-
@@ -99,4 +99,3 @@ pricing:
       plan: Custom
       price: '?'
 ---
-
